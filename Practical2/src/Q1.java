@@ -8,17 +8,10 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import oracle.jrockit.jfr.JFR;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-/**
- *
- * @author Student
- */
+//Looi Dong Sin
+//DCO2G01
+//19-10-18
 public class Q1 extends JFrame {
 
     private JLabel jlbl = new JLabel("COLOR");
